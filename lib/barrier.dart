@@ -16,7 +16,7 @@ MyBarrier({this.size});
       height: size,
       decoration: BoxDecoration(
 color: Colors.green,
-      ),
+      )
     );
   }
 }
